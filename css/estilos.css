@@ -42,9 +42,13 @@
 }
 
 .a:hover {
-    background-color: rgb(255, 196, 237);
-    color: rgb(150, 150, 150);
-    border: double;
+    background-color: #d473f7;
+    color: rgb(66, 66, 66);
+    border: solid;
+    overflow: hidden;
+    margin: 10px;
+    border-radius: 20px;
+    display: flex;
 }
 
 .main {
